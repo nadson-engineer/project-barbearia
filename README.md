@@ -18,23 +18,23 @@ Imagem
 
 Funcionalidades
   Página Inicial: 
-   ° Uma introdução ao trabalho do barbeiro, com uma foto de destaque e uma breve biografia.
-   ° Função auto preenchimento, assim que o cliente clica em um serviço vai direto pro whatssapp do barbeiro, com mensagem preenchida solicitando o serviço em que foi clicado
+   1. Uma introdução ao trabalho do barbeiro, com uma foto de destaque e uma breve biografia.
+   2. Função auto preenchimento, assim que o cliente clica em um serviço vai direto pro whatssapp do barbeiro, com mensagem preenchida solicitando o serviço em que foi clicado
 
 Serviços:
-  Uma lista detalhada dos cortes, estilos de barba e tratamentos oferecidos.
+   1. Uma lista detalhada dos cortes, estilos de barba e tratamentos oferecidos.
 
 Portfólio: 
-  Uma galeria de fotos dos melhores trabalhos realizados.
+   1. Uma galeria de fotos dos melhores trabalhos realizados.
 
-  Contato e Localização: Informações de contato, horário de atendimento e um mapa para a localização do salão.
+   2. Contato e Localização: Informações de contato, horário de atendimento e um mapa para a localização do salão.
 
-  Design Responsivo: O layout se adapta perfeitamente a telas de desktops, tablets e smartphones.
+   3. Design Responsivo: O layout se adapta perfeitamente a telas de desktops, tablets e smartphones.
 
 Tecnologias Utilizadas
-  HTML5: Estrutura e marcação do conteúdo da página.
+   1. HTML5: Estrutura e marcação do conteúdo da página.
 
-  CSS3: Estilização, layout e responsividade do site.
+   2. CSS3: Estilização, layout e responsividade do site.
   
 Como Usar
   Para visualizar o projeto, siga os passos abaixo:
