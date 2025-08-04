@@ -7,11 +7,11 @@ Nome do Projeto: Landing Page Profissional para Barbeiro Rafael
   Este projeto foi uma oportunidade para aprimorar minhas habilidades em front-end estático e focar na qualidade do código e na experiência do usuário. Ele demonstra minha capacidade de entregar projetos do início ao fim, prestando atenção aos detalhes de design e usabilidade.
 
 3. Características-Chave
-  Design Responsivo: O layout se adapta perfeitamente a qualquer dispositivo, garantindo uma ótima experiência de visualização em desktops, tablets e smartphones.
+  1. Design Responsivo: O layout se adapta perfeitamente a qualquer dispositivo, garantindo uma ótima experiência de visualização em desktops, tablets e smartphones.
 
-  Estrutura de Código Limpa: O HTML foi semanticamente estruturado para melhor acessibilidade, enquanto o CSS foi escrito de forma organizada e modular.
+  2. Estrutura de Código Limpa: O HTML foi semanticamente estruturado para melhor acessibilidade, enquanto o CSS foi escrito de forma organizada e modular.
   
-  Fácil Manutenção: O código foi escrito pensando na facilidade de futuras atualizações e modificações.
+  3. Fácil Manutenção: O código foi escrito pensando na facilidade de futuras atualizações e modificações.
 
 4. Imagem
 <img width="1352" height="731" alt="image" src="https://github.com/user-attachments/assets/142d0816-14b8-439a-9c06-ac36db9da0ec" />
